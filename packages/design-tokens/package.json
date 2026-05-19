@@ -1,0 +1,10 @@
+{
+  "name": "@coryde/design-tokens",
+  "private": true,
+  "version": "0.0.0",
+  "exports": {
+    ".": {
+      "import": "./src/index.ts"
+    }
+  }
+}
